@@ -1,0 +1,2 @@
+# getx_navigation_routes3
+getx_navigation_routes3
