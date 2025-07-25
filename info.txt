@@ -1,0 +1,11 @@
+* one screen go to other screen
+
+* one screen data pass to other screen 
+
+*  // Getx with to other screen
+
+*  // Getx with to other screen with data pass
+
+*  // get route with to other screen 
+
+*  // get route with to other screen with data pass
